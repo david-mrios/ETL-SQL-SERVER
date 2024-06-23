@@ -1,5 +1,17 @@
 # Proceso ETL en SQL SERVER
 
+## Hecho por:
+
+- Carlos Manuel Vargas López.
+- Iris Violeta Talavera.
+- David Antonio Membreño Ríos.
+- Jocsan Stiven Mejía Villereal.
+- Jether Alejandro Martínez Solís.
+
+<center>
+        <img src="https://th.bing.com/th/id/OIP.wp7VLwfL8Z8gsOHP1J3i8wHaEn?rs=1&pid=ImgDetMain" alt="Texto alternativo" width="400" style="display: block; margin: auto;">
+</center>
+
 ## Introducción
 Este proyecto documenta el proceso de Extracción, Transformación y Carga (ETL) para el Data Warehouse (DW) de TecnoNic_DW. Se detalla la creación y carga de las dimensiones, el esquema de staging, y los procedimientos almacenados necesarios para gestionar estas operaciones. Además, se hace uso del DLL TecnoNic para procedimientos específicos de carga.
 
