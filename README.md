@@ -61,3 +61,8 @@ Los procedimiento almacenado `load_dim` maneja la carga y actualización de dato
 
 ## Conclusión
 Este README proporciona una guía sobre cómo estructurar y cargar datos en el Data Warehouse TecnoNic_DW. Los procedimientos almacenados `load_staging` y `load_dim` son esenciales para el flujo de ETL y garantizan que los datos se procesen y carguen correctamente. Personalice las tablas y procedimientos según las necesidades específicas de su proyecto para asegurar una implementación exitosa.
+
+## Visita el repositorio sobre la ejecución de un ETL en un proyecto SSIS 
+
+[Proyecto SSIS](https://github.com/david-mrios/ETL-SSIS.git)
+
